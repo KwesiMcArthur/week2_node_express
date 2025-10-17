@@ -1,6 +1,24 @@
-{
+
+  {
+  "name": "week2-node-express",
+  "version": "1.0.0",
+  "description": "My Week 2 Node & Express API project",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://https://github.com/KwesiMcArthur/week2_node_express"
+  },
+  "keywords": ["express", "api", "nodejs"],
+  "author": "Gideon Osei Agyemang",
+  "license": "ISC",
   "dependencies": {
     "dotenv": "^17.2.3",
     "express": "^5.1.0"
   }
 }
+
+
